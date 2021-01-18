@@ -3,5 +3,5 @@ nltk
 pandas
 matplotlib
 beautifulsoup4
-
+Sequential
 
