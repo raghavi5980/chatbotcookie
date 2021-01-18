@@ -3,15 +3,5 @@ nltk
 pandas
 matplotlib
 beautifulsoup4
-urllib.request
-re
-keras.models
-Sequential
-keras.losses
-categorical_crossentropy
-keras.optimizers  
-SGD
-keras.layers 
-Dense
-argmax
+
 
