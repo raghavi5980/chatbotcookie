@@ -3,7 +3,6 @@ nltk
 pandas
 matplotlib
 beautifulsoup4
-random
 string
 urllib.request
 re
