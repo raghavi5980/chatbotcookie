@@ -3,7 +3,6 @@ nltk
 pandas
 matplotlib
 beautifulsoup4
-string
 urllib.request
 re
 keras.models
